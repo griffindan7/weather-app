@@ -5,5 +5,9 @@ Checklist:
 -Download Android Studio.  
 -Become familiar with Kotlin, a language I haven't used before.  
 -Find an API to gather weather data.  
--Edit XML file to get location data from user to calculate weather in that area.  
--Create a search bar so that weather data can be obtained for any location.  
+
+My main aim is to create a basic weather app that provides the user with  
+weather information in their location. I also want the added functionality  
+of searching for info in other areas.  
+  
+This is my first Android app so I am not going too extreme.
